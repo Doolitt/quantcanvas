@@ -1,0 +1,12 @@
+# Generated data files
+*.json
+*.csv
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Virtual environment
+venv/

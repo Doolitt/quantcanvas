@@ -1,0 +1,11 @@
+# Econoday Scraper Dependencies
+requests>=2.31.0
+beautifulsoup4>=4.12.0
+pandas>=2.0.0
+python-dotenv>=1.0.0
+aiohttp>=3.9.0
+asyncio>=3.4.3
+playwright>=1.40.0
+psycopg2-binary>=2.9.0  # For PostgreSQL connection
+schedule>=1.2.0  # For scheduling scrapes
+loguru>=0.7.0  # For logging

@@ -19,6 +19,13 @@
 .DS_Store
 *.pem
 
+# Generated data files
+*.json
+*.csv
+
+# Python virtual environment
+venv/
+
 # debug
 npm-debug.log*
 yarn-debug.log*
